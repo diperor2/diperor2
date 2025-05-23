@@ -26,3 +26,8 @@
 🎮 Gaming Storefront:
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
+
+
+🎧My github Stats:
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1
