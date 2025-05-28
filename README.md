@@ -44,3 +44,10 @@
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+
+
+
+
+
+https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg
+
