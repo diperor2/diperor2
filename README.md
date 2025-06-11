@@ -19,7 +19,24 @@ I'm Stepan 👨🏽‍💻 currently, a frontend developer at @CRED-Dev, previou
 
 
 
+
+
+
+
+
+
 Im Learning tools for Fullstack developer
+
+
+
+
+
+
+
+
+
+
+
 
 
 
