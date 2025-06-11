@@ -16,9 +16,8 @@
 
 I'm Stepan 👨🏽‍💻 currently, a frontend developer at @CRED-Dev, previously, interned at @fampay, @iconscout, @creativecommons and @IITH , also I'm a crypto enthusiast, open-source contributor. I mainly code in JavaScript.
 
-I am currently working on a couple of both Web2 and Web3 open-source projects. I'm also a project collaborator and community team member at @creativecommons and been a GSoC Mentor too. Majorly contributed to creative commons's search engine called cc search, which is an interface to search for content that is licensed under creative commons licenses or in the public domain.
 
-Any funds I receive from the Github Sponsors ❤️, Surely gonna help me to boost myself and gives me great motivation 💪🏽 and I can relentlessly maintain my projects and contribute to the open-source community.
+Im Learning tools for Fullstack developer
 
 I like to work on:
 
