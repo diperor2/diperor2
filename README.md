@@ -50,8 +50,8 @@ Tools | Program Languages:
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="100">
 
 
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="100">
+<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="90">
 
 
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="100">
+<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="90">
 Thanks a lot for your support! ❤️
