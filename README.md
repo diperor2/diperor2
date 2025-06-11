@@ -68,7 +68,7 @@ Tools | Program Languages:
 Pachake Manager:
 
 
-<img src="/dinanathsj29/npm-node-package-manager-tutorial/raw/master/_images-npm-node-package-manager/1-node-npm-logo-1.png" alt="NPM - Node Package Manager" title="NPM - Node Package Manager" width="200" style="max-width: 100%;">
+<img src="/dinanathsj29/npm-node-package-manager-tutorial/raw/master/_images-npm-node-package-manager/1-node-npm-logo-1.png" alt="NPM - Node Package Manager" title="NPM - Node Package Manager" width="200" style="max-width: 100;">
 
 
 Thanks a lot for your support! ❤️
