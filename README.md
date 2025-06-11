@@ -37,3 +37,7 @@ I like to work on:
 
 
 Thanks a lot for your support! ❤️
+
+
+Tools | Program Languages:
+<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react">
