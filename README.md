@@ -8,7 +8,6 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p>Name : Stepan</p>
 </div>
 
 </body>
