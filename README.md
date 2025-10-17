@@ -3,6 +3,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <style>
+        .images {
+        display : flex
+        justify-direction : row;
+        }
+    </style>
 </head>
 <body>
 
@@ -61,7 +67,7 @@ I like to work on:
 
 Tools | Program Languages:
 
-
+<div class="images">
 <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="100">
 
 
@@ -84,7 +90,7 @@ Tools | Program Languages:
 
 
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png" width="100" height="100" alt="nestjs logo">
-
+</div<
 
 
 Thanks a lot for your support! ❤️
